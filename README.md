@@ -1,0 +1,1 @@
+<p>Entendendo o fluxo de trabalho do nestjs fazendo um crud simples usando mongodb e o comando 'nest g resource'</p>
